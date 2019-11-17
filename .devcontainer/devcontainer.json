@@ -1,0 +1,43 @@
+// For format details, see https://aka.ms/vscode-remote/devcontainer.json or the definition README at
+// https://github.com/microsoft/vscode-dev-containers/tree/master/containers/ruby-2
+{
+	"name": "Ruby 2",
+	"dockerFile": "Dockerfile",
+
+	// Use 'settings' to set *default* container specific settings.json values on container create. 
+	// You can edit these settings after create using File > Preferences > Settings > Remote.
+	"settings": { 
+		"terminal.integrated.shell.linux": "/usr/bin/fish"
+	},
+
+	// Uncomment the next line if you want to publish any ports.
+	"appPort": [4000],
+
+	// Uncomment the next line to run commands after the container is created.
+	// "postCreateCommand": "ruby --version",
+	// If ssh key is not getting copied on windows:
+	// 1) Create one through powershell (not putty, not git bash, not wsl, not any stupid ass GUI bullshit)
+	// 2) Copy your private key to a file called openssh_is_stupid, and give your docker engine's account permission
+	//    to read that file
+	// 3) Be aware of the fact that this private key is now slightly less secure than it should be, only use it for
+	//    low-impact applications like github.  If you really care that much just create a special key just for your
+	//    dev containers
+	"postCreateCommand": "mkdir -p /home/vscode/.ssh; cp -r /home/vscode/.ssh-localhost/* /home/vscode/.ssh; [ -e /home/vscode/.ssh/openssh_is_stupid ] && cp /home/vscode/.ssh/openssh_is_stupid /home/vscode/.ssh/id_rsa; chmod 700 /home/vscode/.ssh; chmod 600 /home/vscode/.ssh/*; bundle install",
+
+	// Uncomment the next line to use a non-root user. On Linux, this will prevent
+	// new files getting created as root, but you may need to update the USER_UID
+	// and USER_GID in .devcontainer/Dockerfile to match your user if not 1000.
+	// "runArgs": [ "-u", "vscode" ],
+
+	"runArgs": [
+		"-v", "${env:HOME}${env:USERPROFILE}/.ssh:/home/vscode/.ssh-localhost:ro",
+		"-u", "vscode"
+	],
+
+	// Add the IDs of extensions you want installed when the container is created in the array below.
+	"extensions": [
+		"rebornix.Ruby",
+		"eamodio.gitlens",
+		"streetsidesoftware.code-spell-checker"
+	]
+}
