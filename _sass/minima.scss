@@ -57,6 +57,12 @@ $base-font-family: 'Crimson Text', serif;
 $header-font-family: 'Roboto', sans-serif;
 $base-font-size:   14pt;
 
+// Width of the content area
+$content-width:    900px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
 
 
 // Partial Override Selectors
@@ -82,3 +88,14 @@ h1, h2, h3, h4, h5, h6, .font-header {
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+
+// Override footer column widths
+.footer-col-1 {
+  width: -webkit-calc(30% - (30px / 2));
+  width: calc(30% - (30px / 2));
+}
+
+.footer-col-2 {
+  width: -webkit-calc(25% - (30px / 2));
+  width: calc(25% - (30px / 2));
+}
