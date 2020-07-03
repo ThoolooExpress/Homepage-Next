@@ -51,11 +51,6 @@ RUN apt-get install fish -y
 WORKDIR /home/vscode/.config/fish
 RUN wget https://gist.githubusercontent.com/ThoolooExpress/e78e30ea9384fb833ed9defc269f04f1/raw/74b6f3c342db7552afba1ca48ccb5e56fd20dacd/config.fish
 
-# SSH-Agent fix
-
-RUN echo "\neval (ssh-agent -c)" >> /home/vscode/.config/fish/config.fish
-RUN echo "\nssh-add ~/.ssh/id_rsa" >> /home/vscode/.config/fish/config.fish
-
 # Add variable file
 # RUN touch /home/vscode/.config/fish/fish_variables
 # Fix permissions
@@ -65,4 +60,20 @@ RUN chown -R $USERNAME:$USERNAME /home/$USER
 
 RUN echo "\nset-x XDG_CONFIG_HOME $HOME/.config"
 # Switch back to dialog for any ad-hoc use of apt-get
+
+# Extension reinstall fix
+RUN mkdir -p /home/$USERNAME/.vscode-server/extensions \
+        /home/$USERNAME/.vscode-server-insiders/extensions \
+    && chown -R $USERNAME \
+        /home/$USERNAME/.vscode-server \
+        /home/$USERNAME/.vscode-server-insiders
+
+# Pre-install jekyll deps to take advantage of caching
+
+USER vscode
+WORKDIR /workspaces/Homepage-Next
+ADD Gemfile .
+ADD Gemfile.lock .
+RUN bundle install
+
 ENV DEBIAN_FRONTEND=
