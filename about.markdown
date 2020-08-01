@@ -10,15 +10,23 @@ in like 5 minutes while I was hungover and really shouldn't be considered to be 
 reflective of anything, except perhaps my distinct lack of eloquence, and excellent
 self-deprecating humor.
 
-My current occupation is bored college student.  Occasionally I moonlight
+~~My current occupation is bored college student.  Occasionally I moonlight
 as l33t hax0r or drunk college student.  Maybe one day I'll be a software
-engineer IDK man.
+engineer IDK man.~~
 
-I'm the research director at the [Fordham University CS Society](http://fordhamcss.org).
-If the site looks suspiciously like this one, it's because when I replaced our old,
-mostly broken, totally bloated, bootstrap 2.3 site, I figured I could kill two
-birds with one stone, and only customize minima once, basically just changing
-the color and font variables.
+I'm currently an engineering resident at Google NYC.  Please refrain from asking
+me to leak any interview questions and / or proprietary information via email,
+you'll only embarrass yourself.  If you are trying to work at Google, prepare
+for your interview using publicly-available resources, such as
+[LeetCode](https://leetcode.com).
+
+During my senior year at Fordham, I was the research director at the [Fordham
+University CS Society](http://fordhamcss.org). If the site looks suspiciously
+like this one, it's because when I replaced our old, mostly broken, totally
+bloated, bootstrap 2.3 site, I figured I could kill two birds with one stone,
+and only customize minima once, basically just changing the color and font
+variables.  I should note that I never actually finished that site, and most of
+the credit for it should go to my successor, David Bono.
 
 I really hate writing about myself, so here's just a list of random facts to
 make this page less empty:

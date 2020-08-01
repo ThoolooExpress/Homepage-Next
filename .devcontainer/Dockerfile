@@ -72,8 +72,8 @@ RUN mkdir -p /home/$USERNAME/.vscode-server/extensions \
 
 USER vscode
 WORKDIR /workspaces/Homepage-Next
-ADD Gemfile .
-ADD Gemfile.lock .
+ADD --chown=vscode Gemfile .
+ADD --chown=vscode Gemfile.lock .
 RUN bundle install
 
 ENV DEBIAN_FRONTEND=

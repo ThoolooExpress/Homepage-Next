@@ -21,11 +21,9 @@
 title: ThoolooExpress
 email: morrill@thoolooexpress.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the personal blog / homepage of Richard Morrill.
-  I sometimes post cool and / or educational content, but most
-  of the time it's just irrelevant garbage that references
-  inside jokes that are only relevant to like two of my friends.
-  Also, Git Gud.
+  This is the personal blog / homepage of Richard Morrill.  Any views expressed
+  here are my own, and not reflective of those of any company I currently work
+  for, have worked for, or will work for in the future. Also, Git Gud.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thoolooexpress.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
