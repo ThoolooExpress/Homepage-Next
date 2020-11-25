@@ -35,7 +35,7 @@ linkedin_username: ThoolooExpress
 excerpt_separator: <!--more-->
 show_excerpts: true
 
-logo_url: /assets/logo.svg
+logo_url: /assets/logo.png
 # Build settings
 theme: minima
 plugins:
