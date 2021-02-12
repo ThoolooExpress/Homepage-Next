@@ -4,6 +4,7 @@ title:  "Fordham's Computer Science Program Enrages the Smart and Dumb in Equal 
 date:   2021-02-20 12:00:00 -0400
 categories: technical
 author: Richard Morrill
+published: false
 ---
 
 Fordham's computer science program achieves a rare balancing act in managing to
