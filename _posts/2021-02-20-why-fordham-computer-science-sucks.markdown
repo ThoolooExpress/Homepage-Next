@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fordham's Computer Science Program Enrages the Smart and Dumb in Equal Measures"
-date:   2020-02-20 12:00:00 -0400
+date:   2021-02-20 12:00:00 -0400
 categories: technical
 author: Richard Morrill
 ---
