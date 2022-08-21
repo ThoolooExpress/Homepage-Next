@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://thoolooexpress.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thoolooexpress.com/" rel="alternate" type="text/html" /><updated>2022-08-21T13:58:38-04:00</updated><id>https://thoolooexpress.com/feed.xml</id><title type="html">ThoolooExpress</title><subtitle>This is the personal blog / homepage of Richard Morrill.  Any views expressed here are my own, and not reflective of those of any company I currently work for, have worked for, or will work for in the future. Also, Git Gud.</subtitle><author><name>Richard Morrill</name></author><entry><title type="html">We’re Back Baby!</title><link href="https://thoolooexpress.com/update/2022/07/22/were-back-baby.html" rel="alternate" type="text/html" title="We’re Back Baby!" /><published>2022-07-22T13:00:00-04:00</published><updated>2022-07-22T13:00:00-04:00</updated><id>https://thoolooexpress.com/update/2022/07/22/were-back-baby</id><content type="html" xml:base="https://thoolooexpress.com/update/2022/07/22/were-back-baby.html"><![CDATA[<p>Fun fact… if you check the
+<a href="https://github.com/ThoolooExpress/Homepage-Next#readme">README.md</a> from this
+site’s repo you’ll notice that it’s necessary to run a command to actually build
+the site on every commit<!--more--> since I disabled automatic Jekyll
+integration because Github Pages is using an extremely outdated version of
+Jekyll. Well I didn’t do that…</p>
+
+<p>Anyways, it’s just as well because the post I mentioned in the original version
+of this post ended up being a rabbit hole to write and I gave up on it.</p>
+
+<h2 id="original-post-from-2022-04-17">Original post from 2022-04-17</h2>
+
+<p>Fun fact… this post was supposed to go live literally months ago and I forgot
+about it. In the original version of it I challenged myself to write a post
+every week for 5 weeks, and failed miserably. There’s no challenge this time, 
+but I do have one solitary post in the works.</p>]]></content><author><name>Richard Morrill</name></author><category term="update" /><summary type="html"><![CDATA[Fun fact… if you check the README.md from this site’s repo you’ll notice that it’s necessary to run a command to actually build the site on every commit]]></summary></entry><entry><title type="html">The Voting Booth is not the Place for Innovation</title><link href="https://thoolooexpress.com/politics/2020/08/01/voting-innovation.html" rel="alternate" type="text/html" title="The Voting Booth is not the Place for Innovation" /><published>2020-08-01T12:00:00-04:00</published><updated>2020-08-01T12:00:00-04:00</updated><id>https://thoolooexpress.com/politics/2020/08/01/voting-innovation</id><content type="html" xml:base="https://thoolooexpress.com/politics/2020/08/01/voting-innovation.html"><![CDATA[<p>In a hotly contested election, accusations of fraud can be just as dangerous as
+real fraud.  Observe the behavior of developing-world despots for long enough
+and you will see, if you can’t change the results of an election, the next best
+thing is to convince everybody that they cannot trust its results.
+<!--more-->It’s all too easy to get hung up on whether or not a new form of
+voting like vote-by-mail, or electronic voting machines is “safe,” and overlook
+the ways that a corrupt politician desperately clinging to power could convince
+the public that their opponent committed election fraud.  In this post, I’m
+going to briefly look at some of the issues with vote-by-mail, but my primary
+focus is going to be on whether it <em>will be trusted</em> not if it <em>can be trusted</em>.
+Even if you and I do our research, and decide to entrust your vote to the postal
+system, if enough of the rest of the country decides they cannot, it will be
+child’s play for Trump (or another politician down the line), to convince them
+that their loss was fraudulent.</p>
+
+<p>Vote-by-mail is simply not as easy to trust as a traditional in-person system.
+In his <a href="https://www.youtube.com/watch?v=w3_0x6oaDmI">excellent argument against online
+voting</a>, Tom Scott lays out the
+primary goals of any voting system:</p>
+
+<ul>
+  <li>Anonymity: Nobody can see how you voted, and once a ballot is cast, voters
+have no way to prove who they voted for.</li>
+  <li>Trust: It must be extremely difficult to create fake votes or prevent
+legitimate votes from being counted, and everybody with a stake in the
+election must trust the system enough to believe its results.</li>
+</ul>
+
+<p>A traditional paper ballot system accomplishes this by having every voter place
+a ballot (which must not contain any individually identifiable marks) into a
+tamper-evident ballot box, which is only opened for counting in the presence of
+a member of every party involved in the election.  Although there are plenty of
+attacks that can be made against this system, in Tom’s words they, “do not scale
+well,” as almost every conceivable attack involves manipulating people, not
+technology, and would need to be repeated for every opposition party
+representative at every place that votes are counted.  Trust in the system is
+achieved through an utter lack of trust in any individual.  At every stage, the
+voter is the only person ever allowed to be alone with a ballot, and even then,
+only inside the controlled environment of a voting booth.  Importantly, every
+voter can readily understand why this form of security is effective.</p>
+
+<p>When you cast a ballot by mail, however, numerous individuals, primarily in the
+postal system, have time alone with your ballot to read, modify, or destroy it.
+Although the final counting procedure ends up being fairly similar to in an
+in-person election, how can you trust that your ballot actually made it into the
+pile?  Also, what’s to stop voters from showing their ballot to others before
+sending it off, thus proving who their voted for, to potentially receive a
+financial reward, or to avoid threatened violence?</p>
+
+<p>I’ve only scratched the surface of holes that can be poked in vote-by-mail. Some
+of these issues can be at least partially resolved with tamper-evident
+envelopes, special anonymous confirmation codes, and other band-aid solutions.
+However, the issue here is largely the same one that would arise if I were to
+create, using my knowledge of cryptography, a “mathematically perfect”
+public-key-based voting system.  I could trust it, anybody with a background in
+mathematics or computer science could trust it, but could hundreds of millions
+of technophobic and poorly-educated voters trust it?  Everybody understands that
+it’s hard to tamper with a box of ballots if you’re being observed from every
+angle by people who are unlikely to conspire together due to their opposing
+political interests.  Every change you make to the existing system invites new
+theories about how it can be defrauded.  Although most of the fears will be
+unwarranted, if they can’t be immediately dismissed, their long-term effect on
+our democracy can be just as damaging as actual election fraud.</p>]]></content><author><name>Richard Morrill</name></author><category term="politics" /><summary type="html"><![CDATA[In a hotly contested election, accusations of fraud can be just as dangerous as real fraud. Observe the behavior of developing-world despots for long enough and you will see, if you can’t change the results of an election, the next best thing is to convince everybody that they cannot trust its results.]]></summary></entry><entry><title type="html">Didn’t you say you were gonna do this like 5 years ago?</title><link href="https://thoolooexpress.com/update/2019/11/17/what-actually-blog.html" rel="alternate" type="text/html" title="Didn’t you say you were gonna do this like 5 years ago?" /><published>2019-11-17T12:59:23-05:00</published><updated>2019-11-17T12:59:23-05:00</updated><id>https://thoolooexpress.com/update/2019/11/17/what-actually-blog</id><content type="html" xml:base="https://thoolooexpress.com/update/2019/11/17/what-actually-blog.html"><![CDATA[<p>Shocking, isn’t it, after a literal decade of constantly telling my friends,
+imaginary and otherwise, that I figured out how to do this cool thing and that
+they should do it, and then saying I’ll write a post about it one day, I’m
+actually doing it. I finally made a blog! <!--more--> Only time will tell if
+I’ll actually write about all the cool and pointless LaTeX tricks I’ve been
+using to meet page-minimums, and all the weird and horrible stuff I do to all my
+VsCode installations because I’m way too picky, or if I’ll just leave this blog
+empty until I mature enough that it’s definitely embarrassing, and I delete it
+completely.</p>
+
+<p>My goals with this are to share all the weird tricks I’ve had to come up with by
+splicing together multitudes of StackOverflow solutions, make myself sound at
+least 3% more credible, and maybe make the 0.01% of people that like my humor
+laugh.  At this point, all the post ideas I have so far are based around one or
+more of the following:</p>
+
+<ul>
+  <li>How annoying C++ is sometimes</li>
+  <li>LaTeX tricks designed to defeat your professor’s margin-measuring,
+and allow you to turn in that 3 page paper and meet a 5 page minimum.</li>
+  <li>Pointless and weird projects involving hardware I get from the trash</li>
+  <li>Stuff I wish somebody had told me like 4 years ago</li>
+  <li>Really low-quality Minecraft content</li>
+</ul>
+
+<p>Check back in about 5 years, maybe I’ll have remembered that this exists and
+actually made another post.</p>]]></content><author><name>Richard Morrill</name></author><category term="update" /><summary type="html"><![CDATA[Shocking, isn’t it, after a literal decade of constantly telling my friends, imaginary and otherwise, that I figured out how to do this cool thing and that they should do it, and then saying I’ll write a post about it one day, I’m actually doing it. I finally made a blog!]]></summary></entry></feed>

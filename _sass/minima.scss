@@ -1,0 +1,108 @@
+@charset "utf-8";
+
+// Define defaults for each variable.
+
+$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.9 !default;
+$base-line-height: 1.5 !default;
+
+$spacing-unit:     30px !default;
+
+$table-text-align: left !default;
+
+// Width of the content area
+$content-width:    800px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+@mixin relative-font-size($ratio) {
+  font-size: $base-font-size * $ratio;
+}
+
+
+// Override Defaults
+$text-color:        #f1f1f1;
+$background-color: #000;
+$brand-color:      #f01414;
+$grey-color:       #efeeee;
+
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 20%);
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,700,700i|Roboto&display=swap');
+$base-font-family: 'Crimson Text', serif;
+$header-font-family: 'Roboto', sans-serif;
+$base-font-size:   14pt;
+
+// Width of the content area
+$content-width:    900px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+
+
+// Partial Override Selectors
+
+.site-title {
+    display: flex;
+    align-items: center;
+}
+
+// My Selectors
+
+h1, h2, h3, h4, h5, h6, .font-header {
+    font-family: $header-font-family;
+}
+
+.site-title-logo {
+    height: $base-line-height * $base-font-size * 1.5;
+    margin-right: $spacing-unit * 0.25;
+}
+// Import partials.
+@import
+  "minima/base",
+  "minima/layout",
+  "minima/syntax-highlighting"
+;
+
+// Override footer column widths
+.footer-col-1 {
+  width: -webkit-calc(30% - (30px / 2));
+  width: calc(30% - (30px / 2));
+}
+
+.footer-col-2 {
+  width: -webkit-calc(25% - (30px / 2));
+  width: calc(25% - (30px / 2));
+}
+
+// Add top border to footnotes
+.footnotes {
+  border-top: 1px solid $text-color;
+  font-size: $small-font-size;
+  margin-top: $spacing-unit;
+  padding-top: $spacing-unit;
+  & p {
+    margin-bottom: 0px;
+  }
+}
+
+.post-content {
+  text-align: justify;
+}
