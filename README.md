@@ -20,4 +20,20 @@ all this works:
        every time you try and push one.
 
 - I basically never post here.
+
+- For when you inevitably forget the commands:
+
+   1. Install Ruby / Gem on your system, and then install Bundler globally.
+
+   2. Run `bundle install` in the repo root. (The config file `.bundle/config`
+      will tell Bundler to install the gems to `.gems`, which is already
+      Git-ignored.)
+   
+   3. Run `bundle exec jekyll serve` to preview the site.
+
+   4. See above to publish.
+
+- When you get in dependency hell and `bundle install` won't work, try deleting
+  `Gemfile.lock` and `.gems/...` and running the command again. Bundler will
+  regenerate everything for you.
     
