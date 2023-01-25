@@ -110,3 +110,19 @@ h1, h2, h3, h4, h5, h6, .font-header {
 .post-categories-feed {
   float: right;
 }
+
+.footer-col-wrapper {
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: stretch;
+}
+
+.footer-col-wrapper > div {
+  margin-right: $spacing-unit;
+  flex: 1 1 0px;
+}
+
+ul.social-media-list > li {
+  white-space: nowrap;
+}

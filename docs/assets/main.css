@@ -689,4 +689,20 @@ table td {
   float: right;
 }
 
+.footer-col-wrapper {
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: stretch;
+}
+
+.footer-col-wrapper > div {
+  margin-right: 30px;
+  flex: 1 1 0px;
+}
+
+ul.social-media-list > li {
+  white-space: nowrap;
+}
+
 /*# sourceMappingURL=main.css.map */
