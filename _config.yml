@@ -31,6 +31,10 @@ github_username:  ThoolooExpress
 default_author: Richard Morrill
 author: Richard Morrill
 linkedin_username: ThoolooExpress
+mastodon:
+  - display_name: ThoolooExpress
+    username: thoolooexpress
+    instance: defcon.social
 
 excerpt_separator: <!--more-->
 show_excerpts: true
