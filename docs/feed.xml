@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://thoolooexpress.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thoolooexpress.com/" rel="alternate" type="text/html" /><updated>2023-02-02T09:43:18-05:00</updated><id>https://thoolooexpress.com/feed.xml</id><title type="html">ThoolooExpress</title><subtitle>This is the personal blog / homepage of Richard Morrill.  Any views expressed here are my own, and not reflective of those of any company I currently work for, have worked for, or will work for in the future. Also, Git Gud.</subtitle><author><name>Richard Morrill</name></author><entry><title type="html">The No Algorithm Challenge</title><link href="https://thoolooexpress.com/lifestyle/technology/2023/01/31/no-algorithm-challenge.html" rel="alternate" type="text/html" title="The No Algorithm Challenge" /><published>2023-01-31T09:00:00-05:00</published><updated>2023-01-31T09:00:00-05:00</updated><id>https://thoolooexpress.com/lifestyle/technology/2023/01/31/no-algorithm-challenge</id><content type="html" xml:base="https://thoolooexpress.com/lifestyle/technology/2023/01/31/no-algorithm-challenge.html"><![CDATA[<p>I am issuing a challenge to myself and anybody else who is interested: For one
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://thoolooexpress.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thoolooexpress.com/" rel="alternate" type="text/html" /><updated>2023-02-06T18:14:19-05:00</updated><id>https://thoolooexpress.com/feed.xml</id><title type="html">ThoolooExpress</title><subtitle>This is the personal blog / homepage of Richard Morrill.  Any views expressed here are my own, and not reflective of those of any company I currently work for, have worked for, or will work for in the future. Also, Git Gud.</subtitle><author><name>Richard Morrill</name></author><entry><title type="html">Implementing the No Algorithm Challenge</title><link href="https://thoolooexpress.com/lifestyle/technology/2023/02/06/no-algorithm-challenge-implementation.html" rel="alternate" type="text/html" title="Implementing the No Algorithm Challenge" /><published>2023-02-06T10:00:00-05:00</published><updated>2023-02-06T10:00:00-05:00</updated><id>https://thoolooexpress.com/lifestyle/technology/2023/02/06/no-algorithm-challenge-implementation</id><content type="html" xml:base="https://thoolooexpress.com/lifestyle/technology/2023/02/06/no-algorithm-challenge-implementation.html"><![CDATA[<p>Today, I’ll be starting on <a href="/lifestyle/technology/2023/01/31/no-algorithm-challenge.html">the challenge I laid out last week</a>,
+and to do so I’ll
+need to put in place some technical safeguards to keep me on track.<!--more-->
+I’ll be augmenting my self control primarily via focus mode on my phone, browser
+extensions, and making sure that I have a full to-do list of both recreational
+activities and side projects.</p>
+
+<h2 id="phone">Phone</h2>
+
+<p>Eliminating time spent scrolling on my phone is really the lowest-hanginging
+fruit of this entire challenge. I’ve already mostly migrated away from dedicated
+mobile apps, so I’ll mostly be using the same browser extensions on Firefox
+mobile as I am on desktop. However, I do use Tusky for Mastodon, so I will be
+setting up a screen time limit of 30 minutes per day, and hiding every tab
+besides my subscription feed. I’ll also disable notifications for everything
+besides direct messages.</p>
+
+<h2 id="browser">Browser</h2>
+
+<p>This is where the fun begins. For me, spending a week off grid would be taking
+this challenge on easy mode. If something interrupts the normal flow of my life,
+such as a trip or an old friend staying with me, I can ignore pretty much all of
+the electronic distractions in my life for a while and focus on the novelty of
+it all. That’s not what this challenge is about, though. I want to change my
+habits long-term, and for obvious reasons, never using a computer again is just
+not an option for me.</p>
+
+<p>So, what I really need to do is strike a balance between my browser being useful
+to me and sucking away all my free time. Eventually, I’ll have to develop some
+self control. However, until I get there, I’ll need some browser extennsions to
+help me:</p>
+
+<ul>
+  <li>
+    <p><a href="https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/">LeechBlock NG</a> -
+This one is the heavy hitter. I’m going to use it to restrict my access to a
+huge variety of sites, and limit the total time I can spend on sites that I
+consider necessary, like YouTube and Reddit.</p>
+  </li>
+  <li>
+    <p><a href="https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/">Unhook</a> -
+This one will prevent me from using YouTube to do anything but search for specific videos.</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/HZ757/reddit-liberation-extension">Reddit Liberation</a> - This
+one will allow me to read Reddit comments from Google searches while preventing
+me from getting sucked into my feed. It’s actually Chrome only, so making it
+work on Firefox will be one of my first tasks for this week. Until it works,
+I’ll totally block Reddit with LeechBlock.</p>
+  </li>
+</ul>
+
+<p>I’ll also be making a conscious effort to only check my email when I actually
+need to. Sometimes I find scrolling through my junk mail becomes my last-resort
+content fix when I try to quit social media, so I’ll make it a bit easier to
+just not do that by cleaning out my inbox now and trying to unsubscribe / block
+as many mailing lists as I can.</p>
+
+<h2 id="to-do-list">To-Do list</h2>
+
+<ul>
+  <li>
+    <p>(As mentioned above) Make Reddit Liberation work on Firefox, and possible
+add a few minor improvements.</p>
+  </li>
+  <li>
+    <p>Get good at <a href="https://store.steampowered.com/app/1349230/5D_Chess_With_Multiverse_Time_Travel/">5D Chess With Multiverse Time Travel</a>.</p>
+  </li>
+  <li>
+    <p>Finish <em>A Crown of Swords</em> by Robert Jordan.</p>
+  </li>
+  <li>
+    <p>Write a short story.</p>
+  </li>
+</ul>]]></content><author><name>Richard Morrill</name></author><category term="lifestyle" /><category term="technology" /><summary type="html"><![CDATA[Today, I’ll be starting on the challenge I laid out last week, and to do so I’ll need to put in place some technical safeguards to keep me on track.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://thoolooexpress.com/assets/logo.png" /><media:content medium="image" url="https://thoolooexpress.com/assets/logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The No Algorithm Challenge</title><link href="https://thoolooexpress.com/lifestyle/technology/2023/01/31/no-algorithm-challenge.html" rel="alternate" type="text/html" title="The No Algorithm Challenge" /><published>2023-01-31T09:00:00-05:00</published><updated>2023-01-31T09:00:00-05:00</updated><id>https://thoolooexpress.com/lifestyle/technology/2023/01/31/no-algorithm-challenge</id><content type="html" xml:base="https://thoolooexpress.com/lifestyle/technology/2023/01/31/no-algorithm-challenge.html"><![CDATA[<p>I am issuing a challenge to myself and anybody else who is interested: For one
 week, avoid all forms of entertainment based around recommendation algorithms.
 <!--more--> This is partially a follow-up to
 <a href="/lifestyle/2023/01/25/boredom-tolerance.html">last week’s post</a>, but
