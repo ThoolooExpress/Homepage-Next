@@ -1,4 +1,94 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://thoolooexpress.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thoolooexpress.com/" rel="alternate" type="text/html" /><updated>2023-02-06T18:14:19-05:00</updated><id>https://thoolooexpress.com/feed.xml</id><title type="html">ThoolooExpress</title><subtitle>This is the personal blog / homepage of Richard Morrill.  Any views expressed here are my own, and not reflective of those of any company I currently work for, have worked for, or will work for in the future. Also, Git Gud.</subtitle><author><name>Richard Morrill</name></author><entry><title type="html">Implementing the No Algorithm Challenge</title><link href="https://thoolooexpress.com/lifestyle/technology/2023/02/06/no-algorithm-challenge-implementation.html" rel="alternate" type="text/html" title="Implementing the No Algorithm Challenge" /><published>2023-02-06T10:00:00-05:00</published><updated>2023-02-06T10:00:00-05:00</updated><id>https://thoolooexpress.com/lifestyle/technology/2023/02/06/no-algorithm-challenge-implementation</id><content type="html" xml:base="https://thoolooexpress.com/lifestyle/technology/2023/02/06/no-algorithm-challenge-implementation.html"><![CDATA[<p>Today, I’ll be starting on <a href="/lifestyle/technology/2023/01/31/no-algorithm-challenge.html">the challenge I laid out last week</a>,
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://thoolooexpress.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thoolooexpress.com/" rel="alternate" type="text/html" /><updated>2023-07-15T16:29:45-04:00</updated><id>https://thoolooexpress.com/feed.xml</id><title type="html">ThoolooExpress</title><subtitle>This is the personal blog / homepage of Richard Morrill.  Any views expressed here are my own, and not reflective of those of any company I currently work for, have worked for, or will work for in the future. Also, Git Gud.</subtitle><author><name>Richard Morrill</name></author><entry><title type="html">Manhattan Sour Spritz; Also, Is This a Cooking Blog Now?</title><link href="https://thoolooexpress.com/cooking/update/2023/07/15/manhattan-sour-spritz.html" rel="alternate" type="text/html" title="Manhattan Sour Spritz; Also, Is This a Cooking Blog Now?" /><published>2023-07-15T07:58:00-04:00</published><updated>2023-07-15T07:58:00-04:00</updated><id>https://thoolooexpress.com/cooking/update/2023/07/15/manhattan-sour-spritz</id><content type="html" xml:base="https://thoolooexpress.com/cooking/update/2023/07/15/manhattan-sour-spritz.html"><![CDATA[<p>Earlier today I was kinda hot from making the critical mistake of walking around
+in New York in the summer, so naturally the first thing I wanted to do when I
+got home was get my buzz on. Normally I’d reach for a light beer, but all I had
+in my fridge was Leffe, so I had to improvise. I’d left a bottle of Wild Turkey
+front and center on my liquor cart, and instantly both a Manhattan and a Whiskey
+sour were front and center on my mind.<!--more-->However, I wanted something at
+least a little hydrating, so I got the wonderful idea to mix most of the
+ingredients from both together and spritz it up a bit.</p>
+
+<h2 id="wtf-is-this-a-cooking-blog-now">WTF, is this a cooking blog now?</h2>
+
+<p>Given how little I post, I wouldn’t call this an <em>anything</em> blog. It’s just
+where I ramble about whatever’s on my mind every few months or so. I do intend
+to make a bit more cooking / cocktail content at some point, but notice the
+distinct lack of a lengthy backstory or photos on this post\&amp;emdash;I plan on
+keeping anything culinary-adjacent strictly limited to recipes and results of
+experiments.</p>
+
+<h2 id="recipe">Recipe</h2>
+
+<h3 id="ingredients">Ingredients</h3>
+
+<ul>
+  <li>
+    <p>1.5oz Wild Turkey bourbon</p>
+  </li>
+  <li>
+    <p>1oz sweet vermouth</p>
+  </li>
+  <li>
+    <p>2tbsp granulated sugar (or 3-tips of one of those controlled-pour sugar
+server thingies, I didn’t actually measure)</p>
+  </li>
+  <li>
+    <p>1tbsp fresh lemon juice (or however much comes out of 1/2 a lemon, I didn’t
+actually measure)</p>
+  </li>
+  <li>
+    <p>seltzer water (prefer SodaStream or other highly-carbonated water; if you
+use something like S. Pellegrino that’s actually pleasant to drink plain,
+the final drink will be under-carbonated)</p>
+  </li>
+  <li>
+    <p>bitters</p>
+  </li>
+</ul>
+
+<h3 id="instructions">Instructions</h3>
+
+<ol>
+  <li>
+    <p>Prepare the glass: Add a few cubes of ice to a 12-oz glass (I used the
+conical Ikea ones that are ribbed for your pleasure. I have no idea what that
+kind of glass is actually called, it’s kind of like the “shaker pint” bad
+bars serve draft beers in but 12oz instead of 16.)</p>
+  </li>
+  <li>
+    <p>Add the vermouth to the bottom of the glass.</p>
+  </li>
+  <li>
+    <p>Shake the bourbon, sugar and lemon juice very hard. (Don’t worry too much if
+there’s a little bit of sugar left in the bottom of the shaker; I sure as
+hell didn’t.)</p>
+  </li>
+  <li>
+    <p>Strain the contents of the shaker gently into the glass, taking care to
+maintain a bit of a “sunrise” effect with the sweet vermouth, if you actually
+care about that kind of stuff.</p>
+  </li>
+  <li>
+    <p>Top with seltzer, and carefully incorporate the shaken ingredients with the
+seltzer with a bar spoon, taking care to avoid disturbing the layer of sweet
+vermouth on the bottom.</p>
+  </li>
+  <li>
+    <p>Dribble some bitters on top in whatever artful pattern suits your fancy (but
+it better be a dick.)</p>
+  </li>
+  <li>
+    <p>Forget to take a picture.</p>
+  </li>
+  <li>
+    <p>Decide not having pictures in your posts is your thing now.</p>
+  </li>
+  <li>
+    <p>Make 3 more, get a bit of a buzz on.</p>
+  </li>
+  <li>
+    <p>Decide today is the day to revive your blog you’ve been ignoring for months.</p>
+  </li>
+</ol>]]></content><author><name>Richard Morrill</name></author><category term="cooking" /><category term="update" /><summary type="html"><![CDATA[Earlier today I was kinda hot from making the critical mistake of walking around in New York in the summer, so naturally the first thing I wanted to do when I got home was get my buzz on. Normally I’d reach for a light beer, but all I had in my fridge was Leffe, so I had to improvise. I’d left a bottle of Wild Turkey front and center on my liquor cart, and instantly both a Manhattan and a Whiskey sour were front and center on my mind.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://thoolooexpress.com/assets/logo.png" /><media:content medium="image" url="https://thoolooexpress.com/assets/logo.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Implementing the No Algorithm Challenge</title><link href="https://thoolooexpress.com/lifestyle/technology/2023/02/06/no-algorithm-challenge-implementation.html" rel="alternate" type="text/html" title="Implementing the No Algorithm Challenge" /><published>2023-02-06T10:00:00-05:00</published><updated>2023-02-06T10:00:00-05:00</updated><id>https://thoolooexpress.com/lifestyle/technology/2023/02/06/no-algorithm-challenge-implementation</id><content type="html" xml:base="https://thoolooexpress.com/lifestyle/technology/2023/02/06/no-algorithm-challenge-implementation.html"><![CDATA[<p>Today, I’ll be starting on <a href="/lifestyle/technology/2023/01/31/no-algorithm-challenge.html">the challenge I laid out last week</a>,
 and to do so I’ll
 need to put in place some technical safeguards to keep me on track.<!--more-->
 I’ll be augmenting my self control primarily via focus mode on my phone, browser

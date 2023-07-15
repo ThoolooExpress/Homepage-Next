@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
     ],
-    "editor.rulers": [80]
+    "editor.rulers": [
+        80
+    ],
+    "liquid.format.enable": true
 }
