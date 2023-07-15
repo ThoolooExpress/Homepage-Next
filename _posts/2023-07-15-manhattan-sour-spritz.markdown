@@ -20,7 +20,7 @@ ingredients from both together and spritz it up a bit.
 Given how little I post, I wouldn't call this an *anything* blog. It's just
 where I ramble about whatever's on my mind every few months or so. I do intend
 to make a bit more cooking / cocktail content at some point, but notice the
-distinct lack of a lengthy backstory or photos on this post\&emdash;I plan on
+distinct lack of a lengthy backstory or photos on this post—I plan on
 keeping anything culinary-adjacent strictly limited to recipes and results of
 experiments.
 
