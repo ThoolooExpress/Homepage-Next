@@ -2,7 +2,7 @@
 layout: post
 title:  "Closing Out The No Algorithm Challenge"
 date:   2025-05-13 9:20 -400
-categories: [lifestyle, technology]
+categories: [lifestyle]
 author: Richard Morrill
 ---
 

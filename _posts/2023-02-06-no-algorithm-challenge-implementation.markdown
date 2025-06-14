@@ -2,7 +2,7 @@
 layout: post
 title:  "Implementing the No Algorithm Challenge"
 date:   2023-02-06 20:00 +0500
-categories: [lifestyle, technology]
+categories: [lifestyle]
 author: Richard Morrill
 ---
 

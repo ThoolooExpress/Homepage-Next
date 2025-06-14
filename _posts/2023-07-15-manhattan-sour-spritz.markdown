@@ -2,7 +2,7 @@
 layout: post
 title:  "Manhattan Sour Spritz; Also, Is This a Cooking Blog Now?"
 date:   2023-07-15 15:58:00 +0400
-categories: [cooking, update]
+categories: [cooking]
 author: Richard Morrill
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "The No Algorithm Challenge"
 date:   2023-01-31 19:00 +0500
-categories: [lifestyle, technology]
+categories: [lifestyle]
 author: Richard Morrill
 ---
 
