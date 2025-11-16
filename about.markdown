@@ -10,11 +10,11 @@ minutes while I was hungover and really shouldn't be considered to be at all
 reflective of anything, except perhaps my distinct lack of eloquence, and
 excellent self-deprecating humor.
 
-That last part is not really true anymore, this page has been updated many, many
+_**2025:** That last part is not really true anymore, this page has been updated many, many
 times since I initially wrote it while hungover in college. I seem to spend
 longer and longer on each subsequent revision, and am not nearly as fun at
 parties as I used to be, so the chances of me being hungover are lower than they
-used to be.
+used to be._
 
 I currently work as a software engineer in New York. Please refrain from asking
 me to leak any interview questions and / or proprietary information from work
@@ -44,6 +44,6 @@ make this page less empty:
 Yay! You survived reading my bio! Now go read my other content, which I _mostly_
 actually give a shit about, and update more than once every 5 years.
 
-The above line is preserved from the original version of this bio. Somewhat
+_**2025:** The above line is preserved from the original version of this bio. Somewhat
 ironically, I've actually updated this bio more times than I've posted on this
-blog at this point.
+blog at this point._

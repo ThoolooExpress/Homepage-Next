@@ -63,4 +63,3 @@ defaults:
 # deprecated functions.
 sass:
   quiet_deps: true
-  quiet_import: true
