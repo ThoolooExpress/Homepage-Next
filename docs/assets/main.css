@@ -705,4 +705,12 @@ ul.social-media-list > li {
   white-space: nowrap;
 }
 
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin-bottom: 15px;
+}
+
 /*# sourceMappingURL=main.css.map */
