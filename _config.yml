@@ -44,6 +44,7 @@ logo_url: /assets/logo.png
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 future: false
 
