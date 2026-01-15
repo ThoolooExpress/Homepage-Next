@@ -48,7 +48,7 @@ plugins:
 
 future: false
 
-destination: docs/
+destination: _site/
 
 exclude:
   - README.md
