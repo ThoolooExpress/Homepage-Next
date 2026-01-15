@@ -53,6 +53,7 @@ destination: docs/
 exclude:
   - README.md
   - .jj/
+  - _site/
 
 defaults:
   - scope:
